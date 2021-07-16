@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96dbaad0-9eb2-42a5-b35d-c9bf98622fc7</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>7a9214af-6e0a-446a-8372-322944b4698b</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variable>
+</TestCaseEntity>

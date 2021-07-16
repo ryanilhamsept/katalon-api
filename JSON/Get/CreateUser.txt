@@ -1,0 +1,6 @@
+{
+  "name":"satya",
+  "job":"lecana",
+  "id":"286",
+  "createdAt":"2021-07-16T09:42:35.730Z"
+}

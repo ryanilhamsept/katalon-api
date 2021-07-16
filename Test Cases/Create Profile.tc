@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d301c82a-8d1c-4063-95ab-ca17ce745c49</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a7e9341-5a66-44c6-8a04-33369c0b2925</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d8d1254-681e-4181-a7fd-c2bfc04a2357</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>
